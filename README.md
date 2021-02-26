@@ -10,6 +10,6 @@ The HTML file is also stored in the root file. Note the HTML file will overwrite
 
 
 
-Cretis:
+Credits:
 
 Thank Ardit Sulce so much! This project is impossible without your help!
